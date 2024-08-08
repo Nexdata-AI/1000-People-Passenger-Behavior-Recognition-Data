@@ -2,7 +2,7 @@
 
 ## Description
 The 1,000 passenger behavior recognition data covers multiple ages, time periods and light exposure. Passenger behavior includes passenger normal behavior, passenger abnormal behavior (passenger motion sickness behavior, passenger sleepiness behavior, passenger lost children & items behaviors). In terms of acquisition equipment, visible and infrared binocular cameras are used. This set of passenger behavior identification data can be used for passenger behavior analysis and other tasks.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1279?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1279?source=Github
 
 
 ## Data size
